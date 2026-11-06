@@ -1,0 +1,14 @@
+{
+ "parts": {
+  "domingos-martins--30-leis-001.json": {
+   "acts": [
+    "domingos-martins/lc-2021-00048",
+    "domingos-martins/lc-2021-00050",
+    "domingos-martins/lc-2021-00051",
+    "domingos-martins/lc-2021-00052"
+   ],
+   "sha256": "27e3b1b1091f354693f016fa58c2f936246bc7bac6f30b7fe5682d63e5f30be6"
+  }
+ },
+ "schema": 1
+}

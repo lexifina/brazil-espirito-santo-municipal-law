@@ -1,0 +1,65 @@
+{
+ "country": "BR-ES-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "domingos-martins/lc-2021-00052",
+   "unit": "domingos-martins",
+   "short": "LC 52/2021",
+   "title": "Lei Complementar nº 52, de 22 de outubro de 2021",
+   "url": "https://sapl.domingosmartins.es.leg.br/norma/7403",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 6,
+     "source_url": "https://sapl.domingosmartins.es.leg.br/media/sapl/public/normajuridica/2021/7403/lei_complementar_52_21.pdf",
+     "sha256": "9fe55169e6ba29d92ddf3a3e9cb97f026fff3ad38d670e55e5876995c96beb5a"
+    }
+   ]
+  },
+  {
+   "slug": "domingos-martins/lc-2021-00051",
+   "unit": "domingos-martins",
+   "short": "LC 51/2021",
+   "title": "Lei Complementar nº 51, de 8 de outubro de 2021",
+   "url": "https://sapl.domingosmartins.es.leg.br/norma/7391",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 5,
+     "source_url": "https://sapl.domingosmartins.es.leg.br/media/sapl/public/normajuridica/2021/7391/lei_complementar_51_21.pdf",
+     "sha256": "99ffd8f5cff6ccbaa65aa9ee4b03c4364aa58663c25ad0e6bec2ceeebe8329f2"
+    }
+   ]
+  },
+  {
+   "slug": "domingos-martins/lc-2021-00050",
+   "unit": "domingos-martins",
+   "short": "LC 50/2021",
+   "title": "Lei Complementar nº 50, de 27 de agosto de 2021",
+   "url": "https://sapl.domingosmartins.es.leg.br/norma/7377",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 22,
+     "source_url": "https://sapl.domingosmartins.es.leg.br/media/sapl/public/normajuridica/2021/7377/lei_complementar_50_21.pdf",
+     "sha256": "869e81dab55c4bcc7c3b8e10e01e1f036c9e9740e2b70bcf819f7d2ed1ef1d28"
+    }
+   ]
+  },
+  {
+   "slug": "domingos-martins/lc-2021-00048",
+   "unit": "domingos-martins",
+   "short": "LC 48/2021",
+   "title": "Lei Complementar nº 48, de 6 de abril de 2021",
+   "url": "https://sapl.domingosmartins.es.leg.br/norma/7280",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 14,
+     "source_url": "https://sapl.domingosmartins.es.leg.br/media/sapl/public/normajuridica/2021/7280/lei_complementar_48_21.pdf",
+     "sha256": "5ed276bf12f0427197c602acc26db0f6aed41637d89a40aa340796e4eb5bbc73"
+    }
+   ]
+  }
+ ]
+}

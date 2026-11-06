@@ -1,0 +1,17 @@
+{
+ "country": "BR-ES-MUNICIPAL",
+ "name": "Espírito Santo: municipal chambers",
+ "tz": "America/Sao_Paulo",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Espírito Santo (SAPL)",
+ "units": [
+  {
+   "id": "domingos-martins",
+   "folder": "domingos-martins",
+   "name": "Domingos Martins",
+   "code": "BR-ES-DOMINGOS-MARTINS",
+   "official_code": "3201902",
+   "source": "sapl.domingosmartins.es.leg.br"
+  }
+ ]
+}

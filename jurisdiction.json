@@ -1,0 +1,12 @@
+{
+  "path": "br-es-municipal",
+  "code": "BR-ES-MUNICIPAL",
+  "name": "Espírito Santo (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-es",
+  "repo": "https://github.com/lexifina/brazil-espirito-santo-municipal-law",
+  "build": "built: the municipal law of Espírito Santo from the Câmaras Municipais' SAPL",
+  "units": [
+    "domingos-martins"
+  ]
+}
