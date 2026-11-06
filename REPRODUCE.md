@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Câmara Municipal de Domingos Martins, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.domingosmartins.es.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Domingos Martins, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.domingosmartins.es.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Aracruz, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.aracruz.es.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Aracruz, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.aracruz.es.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -14,24 +15,34 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
+| `aracruz/lei-2022-04555` | Lei nº 4.555, de 14 de dezembro de 2022 | 1 | 2022-12-14 to 2022-12-14 |
+| `aracruz/lei-2022-04553` | Lei nº 4.553, de 6 de dezembro de 2022 | 1 | 2022-12-06 to 2022-12-06 |
+| `aracruz/lei-2022-04538` | Lei nº 4.538, de 13 de outubro de 2022 | 1 | 2022-10-13 to 2022-10-13 |
+| `aracruz/lei-2022-04531` | Lei nº 4.531, de 13 de setembro de 2022 | 1 | 2022-09-13 to 2022-09-13 |
+| `aracruz/lei-2022-04530` | Lei nº 4.530, de 13 de setembro de 2022 | 1 | 2022-09-13 to 2022-09-13 |
+| `aracruz/lei-2022-04529` | Lei nº 4.529, de 6 de setembro de 2022 | 1 | 2022-09-06 to 2022-09-06 |
+| `aracruz/lei-2022-04527` | Lei nº 4.527, de 6 de setembro de 2022 | 1 | 2022-09-06 to 2022-09-06 |
+| `aracruz/lei-2022-04526` | Lei nº 4.526, de 2 de setembro de 2022 | 1 | 2022-09-02 to 2022-09-02 |
+| `aracruz/lei-2022-04523` | Lei nº 4.523, de 30 de agosto de 2022 | 1 | 2022-08-30 to 2022-08-30 |
+| `aracruz/lei-2022-04522` | Lei nº 4.522, de 30 de agosto de 2022 | 1 | 2022-08-30 to 2022-08-30 |
 | `domingos-martins/lc-2021-00052` | Lei Complementar nº 52, de 22 de outubro de 2021 | 1 | 2021-10-22 to 2021-10-22 |
 | `domingos-martins/lc-2021-00051` | Lei Complementar nº 51, de 8 de outubro de 2021 | 1 | 2021-10-08 to 2021-10-08 |
 | `domingos-martins/lc-2021-00050` | Lei Complementar nº 50, de 27 de agosto de 2021 | 1 | 2021-08-27 to 2021-08-27 |
 | `domingos-martins/lc-2021-00048` | Lei Complementar nº 48, de 6 de abril de 2021 | 1 | 2021-04-06 to 2021-04-06 |
 
-The build made 4 commits:
+The build made 14 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4 | first version of an act |
+| 14 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 4 laws in the record.
-- 8 tags.
+- 14 laws in the record.
+- 28 tags.
 
 ## Dates
 
@@ -43,13 +54,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d8036a23c0d507aaa813d915eba59725b5a7422bcef350e809bc300c1bb8bcf9` (53334 bytes).
+- Corpus: sha256 `62bf2d926fc6cdd17fcd211c33abec5278be827f2030888cb1c14d7d81df59d5` (147727 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-4 versions of 4 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

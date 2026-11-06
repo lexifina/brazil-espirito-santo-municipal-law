@@ -2,6 +2,156 @@
  "country": "BR-ES-MUNICIPAL",
  "acts": [
   {
+   "slug": "aracruz/lei-2022-04555",
+   "unit": "aracruz",
+   "short": "Lei 4555/2022",
+   "title": "Lei nº 4.555, de 14 de dezembro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9992",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 5,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9992/lei_no_4555_-_14-12-2022.pdf",
+     "sha256": "804178f8fbedf41c3f3cd80dfacec9c326bd46751e80b439f349676c5cdc5743"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04553",
+   "unit": "aracruz",
+   "short": "Lei 4553/2022",
+   "title": "Lei nº 4.553, de 6 de dezembro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9990",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 7,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9990/lei_no_4553_-_06-12-2022.pdf",
+     "sha256": "c3b948a5edaf5c40d699ec58678b159fd3422ac97951a0e3df82572995b40b8a"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04538",
+   "unit": "aracruz",
+   "short": "Lei 4538/2022",
+   "title": "Lei nº 4.538, de 13 de outubro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9906",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 25,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9906/lei_no_4538_-_13-10-2022.pdf",
+     "sha256": "1c4bf529466f20099fa01d5a1ab1a2f9eb7a7835427501004a273822fd6dff0f"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04531",
+   "unit": "aracruz",
+   "short": "Lei 4531/2022",
+   "title": "Lei nº 4.531, de 13 de setembro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9891",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 3,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9891/lei_no_4531_-_13-09-2022.pdf",
+     "sha256": "c51ddca4c59b9b904154942435dfa74c167763e78c517448f47fe7896c10cac3"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04530",
+   "unit": "aracruz",
+   "short": "Lei 4530/2022",
+   "title": "Lei nº 4.530, de 13 de setembro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9890",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 4,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9890/lei_no_4530_-_13-09-2022.pdf",
+     "sha256": "f639ae764474bb807f5cf57a10ae2b2eab64b5800bbd35fc1713c44d92e64af8"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04529",
+   "unit": "aracruz",
+   "short": "Lei 4529/2022",
+   "title": "Lei nº 4.529, de 6 de setembro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9887",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 5,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9887/lei_no_4529_-_06-09-2022.pdf",
+     "sha256": "d2b3da48f90ce22355cc69317fa731f30ac8677410639425796135afeadaff6a"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04527",
+   "unit": "aracruz",
+   "short": "Lei 4527/2022",
+   "title": "Lei nº 4.527, de 6 de setembro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9885",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 60,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9885/lei_no_4527_-_06-09-2022.pdf",
+     "sha256": "3475544e33f94b27d165b6e736a7b0c149d2813c9c51ff3f06d400f9cb67ca32"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04526",
+   "unit": "aracruz",
+   "short": "Lei 4526/2022",
+   "title": "Lei nº 4.526, de 2 de setembro de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9884",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 9,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9884/lei_no_4526_-_02-09-2022.pdf",
+     "sha256": "7799b7676bf4db3a8aceb40681b5bcc9a11c922616c527e8a6cffc8267ada00d"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04523",
+   "unit": "aracruz",
+   "short": "Lei 4523/2022",
+   "title": "Lei nº 4.523, de 30 de agosto de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9877",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 8,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9877/lei_no_4523_-_30-08-2022.pdf",
+     "sha256": "4af2f3a85e5e85abab1ece6e962ad27aa1dac1c70839f8e224a81b323abcdd6d"
+    }
+   ]
+  },
+  {
+   "slug": "aracruz/lei-2022-04522",
+   "unit": "aracruz",
+   "short": "Lei 4522/2022",
+   "title": "Lei nº 4.522, de 30 de agosto de 2022",
+   "url": "https://sapl.aracruz.es.leg.br/norma/9878",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 4,
+     "source_url": "https://sapl.aracruz.es.leg.br/media/sapl/public/normajuridica/2022/9878/lei_4522_-_30-08-2022.pdf",
+     "sha256": "163dd4f6b8e3948779b4ef0f045b36388f842759cb30332f40ec39f95a6bbb48"
+    }
+   ]
+  },
+  {
    "slug": "domingos-martins/lc-2021-00052",
    "unit": "domingos-martins",
    "short": "LC 52/2021",

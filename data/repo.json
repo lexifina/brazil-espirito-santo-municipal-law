@@ -12,6 +12,14 @@
    "code": "BR-ES-DOMINGOS-MARTINS",
    "official_code": "3201902",
    "source": "sapl.domingosmartins.es.leg.br"
+  },
+  {
+   "id": "aracruz",
+   "folder": "aracruz",
+   "name": "Aracruz",
+   "code": "BR-ES-ARACRUZ",
+   "official_code": "3200607",
+   "source": "sapl.aracruz.es.leg.br"
   }
  ]
 }

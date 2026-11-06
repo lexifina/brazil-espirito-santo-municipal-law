@@ -1,5 +1,20 @@
 {
  "parts": {
+  "aracruz--30-leis-001.json": {
+   "acts": [
+    "aracruz/lei-2022-04522",
+    "aracruz/lei-2022-04523",
+    "aracruz/lei-2022-04526",
+    "aracruz/lei-2022-04527",
+    "aracruz/lei-2022-04529",
+    "aracruz/lei-2022-04530",
+    "aracruz/lei-2022-04531",
+    "aracruz/lei-2022-04538",
+    "aracruz/lei-2022-04553",
+    "aracruz/lei-2022-04555"
+   ],
+   "sha256": "5d6eb565466d201c5c8de598d0b26aaa9bfc655881d7a256f800ebec43923916"
+  },
   "domingos-martins--30-leis-001.json": {
    "acts": [
     "domingos-martins/lc-2021-00048",
